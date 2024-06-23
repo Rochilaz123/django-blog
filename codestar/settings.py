@@ -31,7 +31,7 @@ SECRET_KEY = {
 }
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-rochilaz123-djangoblog-2m0f5ysgk0e.ws.codeinstitute-ide.net',
